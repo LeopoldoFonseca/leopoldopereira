@@ -10,5 +10,5 @@ Estudande de Análise e Desenvolvimento de Sistema pela PUC Minas. Funcionário 
 </a>
 
 <a href="https://coursera.org/share/1758261799d5dd11d18745d4c63694d5">
-  <img src="https://coursera.org/share/1758261799d5dd11d18745d4c63694d5" alt="Meta - Introduction to Front-End Development" width="200"/>
+  <img src="[https://coursera.org/share/1758261799d5dd11d18745d4c63694d5](https://www.coursera.org/account/accomplishments/certificate/FBT9MZ5KWYOR)" alt="Meta - Introduction to Front-End Development" width="200"/>
 </a>
