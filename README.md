@@ -9,7 +9,7 @@ Estudande de Análise e Desenvolvimento de Sistema pela PUC Minas. Funcionário 
   <img src="https://cdn.qwiklabs.com/AlLQBLoosYTIgIB2k58gGjYJx4SSOMD15Tupyysiba8%3D" alt="Google Badge" width="200"/>
 </a>
 
-<a href="https://coursera.org/share/1758261799d5dd11d18745d4c63694d5">
+<a href="[https://coursera.org/share/1758261799d5dd11d18745d4c63694d5](https://coursera.org/share/1758261799d5dd11d18745d4c63694d5)">
   <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~FBT9MZ5KWYOR/CERTIFICATE_LANDING_PAGE~FBT9MZ5KWYOR.jpeg" alt="Meta - Introduction to Front-End Development" width="200"/>
 </a>
 
