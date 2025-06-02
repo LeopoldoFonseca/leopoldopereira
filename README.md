@@ -17,6 +17,9 @@ Estudande de Análise e Desenvolvimento de Sistema pela PUC Minas. Funcionário 
   <img src="https://cdn.qwiklabs.com/pgfdj70XOn1pxcN6bK3ogMi%2F1qTnLyJIV2oyM79FdbU%3D" alt="Google Badge" width="200"/>
 </a>
 
+<a href="https://coursera.org/share/b0d7370d8628a692da1de02e36e5899a">
+  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~2IX2D8H2DNIV/CERTIFICATE_LANDING_PAGE~2IX2D8H2DNIV.jpeg" alt="Google - Technical Support Fundamentals" width="250"/>
+</a>
 
 <a href="[https://coursera.org/share/1758261799d5dd11d18745d4c63694d5](https://coursera.org/share/1758261799d5dd11d18745d4c63694d5)">
   <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~FBT9MZ5KWYOR/CERTIFICATE_LANDING_PAGE~FBT9MZ5KWYOR.jpeg" alt="Meta - Introduction to Front-End Development" width="250"/>
@@ -26,6 +29,4 @@ Estudande de Análise e Desenvolvimento de Sistema pela PUC Minas. Funcionário 
   <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ESP2OPVIHZ4A/CERTIFICATE_LANDING_PAGE~ESP2OPVIHZ4A.jpeg" alt="Meta - Introduction to Back-End Development" width="250"/>
 </a>
 
-<a href="https://coursera.org/share/b0d7370d8628a692da1de02e36e5899a">
-  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~2IX2D8H2DNIV/CERTIFICATE_LANDING_PAGE~2IX2D8H2DNIV.jpeg" alt="Google - Technical Support Fundamentals" width="250"/>
-</a>
+
