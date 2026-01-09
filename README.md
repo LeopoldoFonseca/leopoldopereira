@@ -1,4 +1,81 @@
 # Leopoldo Pereira da Fonseca
+
+Sou profissional administrativo com mais de 25 anos de experiência na área universitária, atuando desde julho de 2000 na PUC-Rio.  
+Atualmente, sou estudante de **Graduação Tecnológica em Análise e Desenvolvimento de Sistemas**, com foco na construção de uma base sólida em Tecnologia da Informação e Desenvolvimento de Software.
+
+Paralelamente, atuo há mais de **20 anos como editor de trabalhos científicos e livros**, prestando apoio técnico e editorial na formatação, normalização e revisão de produções acadêmicas, como TCCs, artigos, monografias, dissertações e teses, conforme normas institucionais e padrões técnicos (ABNT, APA, Vancouver, entre outros).
+
+Tenho perfil organizado, analítico e orientado à aprendizagem contínua, com especial interesse em tecnologia, sistemas, computação em nuvem e boas práticas de desenvolvimento. Busco integrar minha experiência profissional consolidada e editorial à formação técnica em TI, com foco em evolução acadêmica e transição consistente para a área tecnológica.
+
+---
+
+## 🎓 Formação Acadêmica
+
+- **Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas**  
+  *PUC Minas* — em andamento
+  **Conclusão prevista:** dezembro de 2026
+
+---
+
+## 🏆 Certificações e Qualificações
+
+### 🎓 Certificação Profissional em Tecnologia da Informação – PUC Minas
+- **Tipo:** Certificação Profissional de Nível Tecnológico  
+- **Área:** Tecnologia da Informação / Desenvolvimento de Software  
+- **Conclusão:** 2025  
+
+📄 [Visualizar certificado em PDF](certificacoes/puc-minas/certificacao-profissional-ti-puc-minas-2025.pdf)
+
+---
+
+### ☁️ Google Cloud Computing Foundations
+- Cloud Computing Fundamentals  
+- Infrastructure in Google Cloud  
+- Networking and Security in Google Cloud  
+
+*(Certificações de fundamentos em computação em nuvem e infraestrutura)*
+
+---
+
+### 📘 Meta – Formação em Tecnologia
+- Certificações introdutórias em tecnologia e computação  
+*(ênfase em fundamentos técnicos e digitais)*
+
+---
+
+## 🔧 Áreas de Interesse
+
+- Tecnologia da Informação  
+- Desenvolvimento de Sistemas  
+- Computação em Nuvem  
+- Lógica de Programação  
+- Git e Controle de Versão  
+- Organização e padronização de informação  
+- Produção e editoração científica  
+- Aprendizagem contínua
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/LeopoldoFonseca
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- - - - - - - 
+
+# Leopoldo Pereira da Fonseca
 Readme
 
 Estudande de Análise e Desenvolvimento de Sistema pela PUC Minas. Funcionário Administrativo da PUC-Rio desde julho de 2000.
